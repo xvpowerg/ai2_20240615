@@ -2,3 +2,5 @@
 
 ## 更新seaborn 
 conda install seaborn -c conda-forge
+### streamlit
+pip install streamlit
